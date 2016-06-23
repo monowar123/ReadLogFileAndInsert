@@ -1,0 +1,13 @@
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\bin\Debug\ReadLogFileAndInsert.exe.config
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\bin\Debug\ReadLogFileAndInsert.exe
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\bin\Debug\ReadLogFileAndInsert.pdb
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\bin\Debug\Mono.Security.dll
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.Form1.resources
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.Properties.Resources.resources
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.csproj.GenerateResource.Cache
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.exe
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.pdb
+F:\Practice\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.csprojResolveAssemblyReference.cache
+F:\My_Task\ReadLogFileAndInsert\ReadLogFileAndInsert\bin\Debug\ReadLogFileAndInsert.exe.config
+F:\My_Task\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.exe
+F:\My_Task\ReadLogFileAndInsert\ReadLogFileAndInsert\obj\Debug\ReadLogFileAndInsert.pdb
